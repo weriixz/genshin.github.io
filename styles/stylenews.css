@@ -511,4 +511,21 @@ margin-left: 60cap;
     body {
         background-size: 100% 600px;
     }
+
+    .conteiner {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  header nav {
+    float: right;
+    width: 55%;
+  }
+
+  .HOYOVERSE {
+    width: 170px;
+    margin-top: 3px;
+    margin-bottom: 0;
+    margin-left: 0;
+}
 }
